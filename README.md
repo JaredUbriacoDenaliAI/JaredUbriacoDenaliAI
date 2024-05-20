@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaredUbriacoDenaliAI
 - 👀 I’m interested in Network Engineering, Automation, Infrastructure as Code, Python
-- 🌱 I’m currently learning: Re-cert CCNA. Python
+- 🌱 I’m currently learning: Re-cert CCNA. Python. Cisco Dev Net Cert next.
 - 💞️ I’m looking to collaborate on anything and everything!
 - ⚡ Fun fact: I love Halo
